@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+}
+
+.link {
+    margin: 2rem;
+}
+
+.notes {
+    list-style: none;
+}
+
+.item {
+    /* width: 60vw; */
+    margin-bottom: 10px;
+    border-bottom: 0.5px solid green;
+}
